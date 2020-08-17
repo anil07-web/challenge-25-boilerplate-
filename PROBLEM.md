@@ -1,6 +1,6 @@
 # Problem Statement - AG School
 
-Refactor Challenge - 25 and ensure the following:
+Refactor Challenge - 24 and ensure the following:
 
 - all class member variables are private
 - accessors and mutators should be used to access and manipulate the variables
